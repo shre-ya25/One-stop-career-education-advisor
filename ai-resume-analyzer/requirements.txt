@@ -1,0 +1,17 @@
+
+📜 License
+MIT License
+```txt
+streamlit
+requests
+pdfplumber
+python-docx
+reportlab
+fpdf
+spacy
+scikit-learn
+numpy
+pandas
+PyPDF2
+bcrypt
+python-dateutil
